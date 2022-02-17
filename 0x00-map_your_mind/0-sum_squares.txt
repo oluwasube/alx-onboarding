@@ -1,0 +1,5 @@
+calculate the sum of squares of given input of numbers
+
+Take an input of numbers
+square each inputs
+sum the square of each input
